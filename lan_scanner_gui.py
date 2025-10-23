@@ -361,7 +361,7 @@ def create_gui():
     
     ttk.Label(port_frame, text="🔌 Puertos:").pack(side="left", padx=(0, 5))
     
-    port_var = tk.StringVar(value="6112,6119,6129")
+    port_var = tk.StringVar(value="6112,6119,6125,6126,6116,6154")
     port_entry = ttk.Entry(port_frame, textvariable=port_var, width=30)
     port_entry.pack(side="left", padx=(0, 10))
     
