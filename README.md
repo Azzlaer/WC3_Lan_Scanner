@@ -1,5 +1,9 @@
 # WC3_Lan_Scanner
 
+![Preview](https://github.com/Azzlaer/WC3_Lan_Scanner/blob/main/01.png)
+![Preview](https://github.com/Azzlaer/WC3_Lan_Scanner/blob/main/02.png)
+![Preview](https://github.com/Azzlaer/WC3_Lan_Scanner/blob/main/03.png)
+
 Herramienta para escanear la conectividad LAN en partidas de **Warcraft III**, desarrollada por Azzlaer.
 
 ## 🚀 ¿Qué es?
@@ -64,8 +68,8 @@ El script listará:
 Ejemplo:
 
 ```
-[+] 192.168.0.12 – puerto 6112 ABIERTO – Warcraft III disponible
-[-] 192.168.0.15 – no responde
+[+] 192.168.0.12 �?puerto 6112 ABIERTO �?Warcraft III disponible
+[-] 192.168.0.15 �?no responde
 ```
 
 ## 🧪 Pruebas
@@ -78,7 +82,7 @@ Este proyecto está bajo licencia **MIT**. Consulta el archivo [LICENSE](LICENSE
 
 ---
 
-## ✅ Contribuciones
+## �?Contribuciones
 
 Si deseas mejorar el proyecto:
 
